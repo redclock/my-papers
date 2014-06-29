@@ -22,7 +22,7 @@ Result frame rates are 10~30 FPS in GTX 260.
 > interactive global illumination methods.
 
 
-[Results] (https://github.com/redclock/my-papers/tree/master/MIPT)
+**Results** [More] (https://github.com/redclock/my-papers/tree/master/MIPT)
 
 ![Gallery](https://github.com/redclock/my-papers/raw/master/MIPT/sc1.jpg)
 ![Gallery](https://github.com/redclock/my-papers/raw/master/MIPT/sc3.jpg)
