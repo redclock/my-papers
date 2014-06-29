@@ -21,5 +21,6 @@ Result frame rates are 10~30 FPS in GTX 260.
 > of dynamic complex scenes. The advantages of the method are demonstrated by comparison with other existing
 > interactive global illumination methods.
 
-**Gallery**
-![RESULT](www.github.com/redclock/my-papers/raw/MIPT/sc1.jpg)
+
+* Result samples found in MIPT directory
+![Gallery](https://github.com/redclock/my-papers/raw/master/MIPT/sc1.jpg)
