@@ -26,3 +26,36 @@ Result frame rates are 10~30 FPS in GTX 260.
 
 ![Gallery](https://github.com/redclock/my-papers/raw/master/MIPT/sc1.jpg)
 ![Gallery](https://github.com/redclock/my-papers/raw/master/MIPT/sc3.jpg)
+
+
+Real-Time Rendering of Translucent Objects with Variable Sizes
+---------
+A technique to make real-time translucent rendering scalable with different size.
+
+**Abstract**
+
+> We present a novel technique for real-timely rendering
+> translucent objects. Our technique is mainly based on
+> translucent shadow maps with a new adaptive sampling
+> strategy. In this sampling strategy, the hierarchy levels and
+> positions for sampling are selected according to the size of
+> target object. By our optimization, less storage in the texture
+> is required than that in previous methods. Compared with
+> previous methods, our technique provide a way to choose
+> the proper sampling pattern and is applicable for a wider
+> range of object sizes. With the implementation on GPU, the
+> presented technique is able to render translucent objects in
+> animated scenes where lights and material parameters vary
+> real-timely without any lengthy preprocessing.
+
+**Results**
+
+![Gallery](https://github.com/redclock/my-papers/raw/master/RTVS/trans_color1.jpg)
+![Gallery](https://github.com/redclock/my-papers/raw/master/RTVS/trans_color2.jpg)
+![Gallery](https://github.com/redclock/my-papers/raw/master/RTVS/trans_color3.jpg)
+![Gallery](https://github.com/redclock/my-papers/raw/master/RTVS/trans_color4.jpg)
+
+![Gallery](https://github.com/redclock/my-papers/raw/master/RTVS/trans_size1.jpg)
+![Gallery](https://github.com/redclock/my-papers/raw/master/RTVS/trans_size2.jpg)
+![Gallery](https://github.com/redclock/my-papers/raw/master/RTVS/trans_size3.jpg)
+![Gallery](https://github.com/redclock/my-papers/raw/master/RTVS/trans_size4.jpg)
