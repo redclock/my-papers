@@ -23,9 +23,9 @@ Result frame rates are 10~30 FPS in GTX 260.
 
 
 **Results** [More] (https://github.com/redclock/my-papers/tree/master/MIPT)
-
 ![Gallery](https://github.com/redclock/my-papers/raw/master/MIPT/sc1.jpg)
-![Gallery](https://github.com/redclock/my-papers/raw/master/MIPT/sc3.jpg)
+![Gallery](MIPT/caustics.gif)
+
 
 
 Real-Time Rendering of Translucent Objects with Variable Sizes
