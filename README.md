@@ -23,7 +23,7 @@ Result frame rates are 10~30 FPS in GTX 260.
 
 
 **Results** [More] (https://github.com/redclock/my-papers/tree/master/MIPT)
-![Gallery](https://github.com/redclock/my-papers/raw/master/MIPT/sc1.jpg)
+![Gallery](MIPT/sc1.jpg)
 ![Gallery](MIPT/caustics.gif)
 
 
@@ -50,12 +50,12 @@ A technique to make real-time translucent rendering scalable with different size
 
 **Results**
 
-![Gallery](https://github.com/redclock/my-papers/raw/master/RTVS/trans_color1.jpg)
-![Gallery](https://github.com/redclock/my-papers/raw/master/RTVS/trans_color2.jpg)
-![Gallery](https://github.com/redclock/my-papers/raw/master/RTVS/trans_color3.jpg)
-![Gallery](https://github.com/redclock/my-papers/raw/master/RTVS/trans_color4.jpg)
+![Gallery](RTVS/trans_color1.jpg)
+![Gallery](RTVS/trans_color2.jpg)
+![Gallery](RTVS/trans_color3.jpg)
+![Gallery](RTVS/trans_color4.jpg)
 
-![Gallery](https://github.com/redclock/my-papers/raw/master/RTVS/trans_size1.jpg)
-![Gallery](https://github.com/redclock/my-papers/raw/master/RTVS/trans_size2.jpg)
-![Gallery](https://github.com/redclock/my-papers/raw/master/RTVS/trans_size3.jpg)
-![Gallery](https://github.com/redclock/my-papers/raw/master/RTVS/trans_size4.jpg)
+![Gallery](RTVS/trans_size1.jpg)
+![Gallery](RTVS/trans_size2.jpg)
+![Gallery](RTVS/trans_size3.jpg)
+![Gallery](RTVS/trans_size4.jpg)
